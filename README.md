@@ -1,4 +1,4 @@
 # clara
 
 
-<img src="https://github.com/darlanarendra/clara/blob/main/apiworld.png" width="128"/>
+<img src="https://github.com/darlanarendra/clara/blob/main/apiworld.png" />
